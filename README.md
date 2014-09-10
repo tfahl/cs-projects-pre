@@ -5,7 +5,7 @@ Projects and Assignments from the first two year of CS at Oregon State Universit
 Includes Projects From
 ======================
 CS 160 - Computer Science Orientation<br>
-CS 161 - Intro to Computer Science I
-CS 162 - Intro to Computer Science II
-CS 271 - Computer Architecture & Assembly Language
-CS 275 - Databases
+CS 161 - Intro to Computer Science I<br>
+CS 162 - Intro to Computer Science II<br>
+CS 271 - Computer Architecture & Assembly Language<br>
+CS 275 - Databases<br>

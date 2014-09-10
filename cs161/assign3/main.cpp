@@ -5,6 +5,8 @@
  *Description: Can integrate 5 functions by trapezoid or rectangle from user input
  *Input: Select which function, a, b, n and what type of integral
  *Output: The summation of the integral the user selected
+ * 
+ * 9/10/2014: NEEDS BUG FIXING
 ***/  
 
 

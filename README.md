@@ -14,6 +14,5 @@ CS 275 - Databases<br>
 
 TO-DO
 =====
-*Find/add the rest of CS160<br>
-*Bugfixes and add comments to 160, 161, 162, 261, 271<br>
+*Bugfixes and add comments to 161, 162, 261, 271<br>
 *Find and edit 275, leaving out personal information<br>

@@ -2,6 +2,15 @@
 
 using namespace std;
 
+/****
+ *Program: Adjacent products
+ *Author: Taylor Fahlman
+ *Date Due: 
+ *Description: Finds the greatest product of four adjacent numbers in the 20x20 grid
+ *Input: 
+ *Output:
+*****/ 
+
 int main()
 {
     int large = 0, temp = 0;       

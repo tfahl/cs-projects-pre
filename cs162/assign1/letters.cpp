@@ -1,7 +1,14 @@
 #include <iostream>
 
 using namespace std;
-
+/****
+ *Program: Letter cryptography
+ *Author: Taylor Fahlman
+ *Date Due:
+ *Description: Find a solution where every letter has a different numerical reputation
+ *Input: 
+ *Output:
+*****/ 
 int main()
 {
     int t = 0, g = 0, d = 0, o = 0, ans = 0, guess = 0;

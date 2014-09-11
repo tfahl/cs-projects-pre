@@ -2,6 +2,15 @@
 
 using namespace std;
 
+/****
+ *Program: Matrix Multiplication
+ *Author: Taylor Fahlman
+ *Date Due:
+ *Description: Multiplies 2 matrices and stores the answer in a third matrix.
+ *Input: 2 matrices
+ *Output: Resulting matrix of the product
+*****/ 
+
 int main()
 {
     int a[10][10];

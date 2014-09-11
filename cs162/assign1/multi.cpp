@@ -2,6 +2,17 @@
 
 using namespace std;
 
+/****
+ *Program: Mutliples of 3 and 5
+ *Author: Taylor Fahlman
+ *Date Due: 6/7/2013
+ *Description: Counts all the multiples of 3 and 5 between 0 and 1000
+ *Input: 
+ *Output:
+*****/ 
+
+
+
 int main()
 {
     int ans3 = 0;
